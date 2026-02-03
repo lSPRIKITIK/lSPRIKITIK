@@ -12,7 +12,7 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg](https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg)" alt="Snake animation" />
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
 
 ###
 
